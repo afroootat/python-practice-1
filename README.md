@@ -1,4 +1,4 @@
-# python-practice-day1
+# python-practice-1
 Basic Python practice scripts (calculator, even/odd, age checker)
 
 ## Files Included
